@@ -126,7 +126,7 @@
     </dependencies>
 
     <distributionManagement>
-        <downloadUrl>https://github.com/kravchik/mvn-repo</downloadUrl>
+        <downloadUrl>https://github.com/kravchik/mvn-repo/yk/jcommon</downloadUrl>
 
         <repository>
             <id>snapshot</id>
