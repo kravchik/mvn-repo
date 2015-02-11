@@ -126,6 +126,8 @@
     </dependencies>
 
     <distributionManagement>
+        <downloadUrl>https://github.com/kravchik/mvn-repo/blob/master</downloadUrl>
+
         <repository>
             <id>snapshot</id>
             <url>file://${basedir}/../mvn-repo</url>
