@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>yk</groupId>
+  <artifactId>jcommon</artifactId>
+  <version>0.120-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170106.180631</timestamp>
+      <buildNumber>15</buildNumber>
+    </snapshot>
+    <lastUpdated>20170106180631</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.120-20170106.180631-15</value>
+        <updated>20170106180631</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.120-20170106.180631-15</value>
+        <updated>20170106180631</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.120-20170106.180631-15</value>
+        <updated>20170106180631</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
